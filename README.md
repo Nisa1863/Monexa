@@ -5,7 +5,7 @@ Monexa is a web-based personal finance management platform developed using React
 The frontend of the project is developed entirely with React. Backend services are provided through a Node.js API, while the machine learning module performs financial prediction and analysis operations.
 
 
-## 📸 Application Screenshots
+##  Application Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e5ba705-86a9-490b-99fc-21e741526c82" width="230"/>
