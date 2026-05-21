@@ -1,0 +1,208 @@
+.mock-bank {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-bottom: 20px;
+}
+
+.mock-bank__disclaimer {
+  margin: 0;
+  font-size: 11px;
+  line-height: 1.45;
+  color: var(--mx-ink-muted);
+  text-align: center;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: rgba(44, 39, 36, 0.04);
+  border: 1px solid rgba(44, 39, 36, 0.06);
+}
+
+.mock-bank__account-card {
+  border-radius: var(--mx-radius-lg);
+  padding: 18px;
+  color: #faf6f0;
+  background: linear-gradient(145deg, #3d2f2c 0%, #2a211e 55%, #1f1816 100%);
+  box-shadow: 0 16px 40px rgba(42, 33, 30, 0.35);
+}
+
+.mock-bank__account-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.mock-bank__bank-name {
+  margin: 0;
+  font-size: 13px;
+  opacity: 0.85;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.mock-bank__owner {
+  margin: 4px 0 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.mock-bank__badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 999px;
+  background: rgba(201, 162, 39, 0.25);
+  color: #f5e6b8;
+  white-space: nowrap;
+}
+
+.mock-bank__balance {
+  margin: 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.mock-bank__meta {
+  margin: 8px 0 0;
+  font-size: 12px;
+  opacity: 0.75;
+  word-break: break-all;
+}
+
+.mock-bank__stats-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.mock-bank__stat {
+  background: var(--mx-paper);
+  border: 1px solid rgba(44, 39, 36, 0.08);
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.mock-bank__stat-label {
+  display: block;
+  font-size: 11px;
+  color: var(--mx-ink-muted);
+  margin-bottom: 4px;
+}
+
+.mock-bank__stat strong {
+  font-size: 14px;
+  color: var(--mx-ink);
+}
+
+.mock-bank__section {
+  margin-bottom: 0;
+}
+
+.mock-bank__section-title {
+  margin: 0 0 12px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.mock-bank__payments-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.mock-bank__payment-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(44, 39, 36, 0.06);
+}
+
+.mock-bank__payment-row:last-child {
+  border-bottom: none;
+}
+
+.mock-bank__payment-btn {
+  width: 100%;
+  text-align: left;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 10px;
+  padding: 10px 8px;
+  font-family: inherit;
+}
+
+.mock-bank__payment-btn:hover,
+.mock-bank__payment-btn.is-active {
+  background: rgba(201, 162, 39, 0.1);
+}
+
+.mock-bank__amount {
+  font-weight: 700;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.mock-bank__amount.expense {
+  color: #b45309;
+}
+
+.mock-bank__amount.income {
+  color: #2d6a4f;
+}
+
+.mock-bank__detail-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 6px 12px;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.mock-bank__actions {
+  margin-top: 4px;
+}
+
+.mock-bank-connect {
+  text-align: center;
+  padding-bottom: 16px;
+}
+
+.mock-bank-connect__loading {
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.mock-bank-connect__spinner {
+  width: 44px;
+  height: 44px;
+  margin: 0 auto 16px;
+  border: 3px solid rgba(44, 39, 36, 0.12);
+  border-top-color: var(--mx-brand);
+  border-radius: 50%;
+  animation: mock-bank-spin 0.85s linear infinite;
+}
+
+@keyframes mock-bank-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.mock-bank-connect__loading-text {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--mx-ink);
+}
+
+.mock-bank-connect__loading-sub {
+  margin: 8px 0 0;
+  font-size: 13px;
+  color: var(--mx-ink-muted);
+}

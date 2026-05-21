@@ -1,0 +1,8 @@
+node_modules/
+venv/
+.venv/
+.cache/
+.DS_Store
+.env
+build/
+dist/

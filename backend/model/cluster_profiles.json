@@ -1,0 +1,79 @@
+{
+  "features": [
+    "BALANCE",
+    "PURCHASES",
+    "PAYMENTS"
+  ],
+  "n_clusters": 4,
+  "generated_at": "2026-04-28T22:12:45.490437+00:00",
+  "preprocessing": {
+    "clip_bounds": {
+      "BALANCE": {
+        "low": 0.06510059,
+        "high": 9338.804814000001
+      },
+      "PURCHASES": {
+        "low": 0.0,
+        "high": 8977.290000000014
+      },
+      "PAYMENTS": {
+        "low": 0.0,
+        "high": 13608.71554060002
+      }
+    }
+  },
+  "cluster_profiles": {
+    "0": {
+      "mean_balance": 811.8231757929142,
+      "mean_purchases": 435.4216397554476,
+      "mean_payments": 771.8135419829127,
+      "mean_credit_limit": 3285.34123964195,
+      "mean_full_payment_rate": 0.1494918421382662,
+      "mean_payment_ratio": 7.389788569373822,
+      "mean_cash_advance": 514.2566281414015,
+      "risk_score": 17.71,
+      "payment_confidence": 42.11,
+      "recommended_credit_limit": 2936.240879517596,
+      "segment_name": "Orta Riskli"
+    },
+    "1": {
+      "mean_balance": 1194.5808347333896,
+      "mean_purchases": 2350.352371740959,
+      "mean_payments": 4033.372677950379,
+      "mean_credit_limit": 5944.013303769554,
+      "mean_full_payment_rate": 0.27717318082422204,
+      "mean_payment_ratio": 23.22843875204534,
+      "mean_cash_advance": 1178.439359410429,
+      "risk_score": 0.0,
+      "payment_confidence": 100.0,
+      "recommended_credit_limit": 5944.013303769554,
+      "segment_name": "Dusuk Riskli"
+    },
+    "2": {
+      "mean_balance": 5700.7177588275235,
+      "mean_purchases": 715.8454128440367,
+      "mean_payments": 2620.46626716055,
+      "mean_credit_limit": 8505.783986655963,
+      "mean_full_payment_rate": 0.006549426605504588,
+      "mean_payment_ratio": 1.5567315428420252,
+      "mean_cash_advance": 3263.3561708009174,
+      "risk_score": 100.0,
+      "payment_confidence": 0.0,
+      "recommended_credit_limit": 3402.313594662385,
+      "segment_name": "Duzensiz Odeyen"
+    },
+    "3": {
+      "mean_balance": 4072.9133551917803,
+      "mean_purchases": 8994.1375,
+      "mean_payments": 10055.652554880136,
+      "mean_credit_limit": 10027.054794520547,
+      "mean_full_payment_rate": 0.2926022465753425,
+      "mean_payment_ratio": 15.837691591129959,
+      "mean_cash_advance": 1788.4616477397262,
+      "risk_score": 59.72,
+      "payment_confidence": 89.25,
+      "recommended_credit_limit": 6434.1605205479445,
+      "segment_name": "Yuksek Harcayan"
+    }
+  }
+}

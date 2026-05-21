@@ -1,0 +1,2443 @@
+{
+  "users": {
+    "nisanur200396@icloud.com": {
+      "analyses": [
+        {
+          "created_at": "2026-05-18T13:20:35.622Z",
+          "categories": {
+            "market": 0,
+            "transport": 750,
+            "bills": 860,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 550,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 2160,
+          "prediction": {
+            "segment": "Dusuk Riskli",
+            "riskScore": 0,
+            "riskLabel": "Düşük dikkat"
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Fatura harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %17 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 22,
+            "potential_monthly_saving": 475.2,
+            "reduction_targets": {
+              "transport": 25,
+              "bills": 25,
+              "entertainment": 17
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T11:16:26.660Z",
+          "categories": {
+            "market": 0,
+            "transport": 750,
+            "bills": 860,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 550,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 2160,
+          "prediction": {
+            "segment": "Dusuk Riskli",
+            "riskScore": 0,
+            "riskLabel": "Düşük dikkat"
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Fatura harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %17 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 22,
+            "potential_monthly_saving": 475.2,
+            "reduction_targets": {
+              "transport": 25,
+              "bills": 25,
+              "entertainment": 17
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T18:40:11.121Z",
+          "categories": {
+            "market": 0,
+            "transport": 1200,
+            "bills": 480,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 3950,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 5630,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey"
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 1013.4,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T18:49:12.643Z",
+          "categories": {
+            "market": 0,
+            "transport": 750,
+            "bills": 860,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 550,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 2160,
+          "prediction": {
+            "segment": "Dusuk Riskli",
+            "riskScore": 0,
+            "riskLabel": "Düşük dikkat"
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Fatura harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %17 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 22,
+            "potential_monthly_saving": 475.2,
+            "reduction_targets": {
+              "transport": 25,
+              "bills": 25,
+              "entertainment": 17
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T18:49:37.178Z",
+          "categories": {
+            "market": 0,
+            "transport": 150,
+            "bills": 1300,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 0,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 1450,
+          "prediction": {
+            "segment": "Duzensiz Odeyen",
+            "riskScore": 100,
+            "riskLabel": "Yüksek dikkat"
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Fatura harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 25,
+            "potential_monthly_saving": 362.5,
+            "reduction_targets": {
+              "bills": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T19:09:44.325Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T19:45:04.106Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T19:45:16.290Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T19:48:28.273Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T20:01:54.700Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T20:39:28.071Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T22:03:18.300Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T22:23:38.558Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T22:40:04.607Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-19T23:42:50.403Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-20T09:07:22.511Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-20T09:11:41.984Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-20T09:12:14.929Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-20T10:02:09.899Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        },
+        {
+          "created_at": "2026-05-20T10:58:06.913Z",
+          "categories": {
+            "market": 0,
+            "transport": 2581.5,
+            "bills": 500,
+            "dining": 0,
+            "education": 0,
+            "health": 0,
+            "entertainment": 9115.7,
+            "subscription": 0,
+            "other": 0
+          },
+          "total_spending": 12197.2,
+          "prediction": {
+            "segment": "Yuksek Harcayan",
+            "riskScore": 59.72,
+            "riskLabel": "Orta düzey",
+            "recommendedCreditLimit": 6434.1605205479445
+          },
+          "recommendations": [
+            "Market harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Ulaşım harcaman ortalamanın üstünde. %11 azaltmayı dene.",
+            "Fatura harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Yeme-İçme harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğitim harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Sağlık harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Eğlence harcaman ortalamanın üstünde. %25 azaltmayı dene.",
+            "Abonelik harcaman kontrollü seviyede, bu disiplini koruyorsun.",
+            "Diğer harcaman kontrollü seviyede, bu disiplini koruyorsun."
+          ],
+          "savings_suggestions": {
+            "save_rate_percent": 18,
+            "potential_monthly_saving": 2195.5,
+            "reduction_targets": {
+              "transport": 11,
+              "entertainment": 25
+            }
+          }
+        }
+      ],
+      "profile": {
+        "first_name": "Nisa Nur",
+        "last_name": "Ozdal",
+        "email": "nisanur200396@icloud.com",
+        "phone": "05516420294"
+      },
+      "transactions": [
+        {
+          "created_at": "2026-05-18T12:56:49.163Z",
+          "amount": 200,
+          "category": "dining",
+          "description": "yemek"
+        },
+        {
+          "created_at": "2026-05-18T12:57:03.528Z",
+          "amount": 6000,
+          "category": "entertainment",
+          "description": "Eglence"
+        },
+        {
+          "created_at": "2026-05-18T12:58:00.364Z",
+          "amount": 1200,
+          "category": "dining",
+          "description": "Krispy kreeme"
+        },
+        {
+          "created_at": "2026-05-18T12:58:25.845Z",
+          "amount": 1000,
+          "category": "education",
+          "description": "okul"
+        },
+        {
+          "created_at": "2026-05-18T12:58:40.352Z",
+          "amount": 3000,
+          "category": "transport",
+          "description": "otobus"
+        },
+        {
+          "created_at": "2026-05-19T11:17:44.556Z",
+          "amount": 900,
+          "category": "entertainment",
+          "description": "oyun"
+        },
+        {
+          "created_at": "2026-05-19T18:42:01.476Z",
+          "amount": 440,
+          "category": "dining",
+          "description": "yemek"
+        },
+        {
+          "created_at": "2026-05-19T18:42:11.678Z",
+          "amount": 200,
+          "category": "dining",
+          "description": "icecek"
+        },
+        {
+          "created_at": "2026-05-19T18:43:14.840Z",
+          "amount": 300,
+          "category": "other",
+          "description": "tatli"
+        },
+        {
+          "created_at": "2026-05-19T18:43:44.821Z",
+          "amount": 500,
+          "category": "other",
+          "description": "Alisveris"
+        },
+        {
+          "created_at": "2026-05-19T18:44:13.253Z",
+          "amount": 1200,
+          "category": "education",
+          "description": "kitap"
+        },
+        {
+          "created_at": "2026-05-18T12:00:00.000Z",
+          "amount": 437.64,
+          "category": "bills",
+          "description": "Turkcell Fatura",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-17T12:00:00.000Z",
+          "amount": 328.91,
+          "category": "bills",
+          "description": "İSKİ Faturası",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-15T12:00:00.000Z",
+          "amount": 755.63,
+          "category": "health",
+          "description": "Hastane",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-14T12:00:00.000Z",
+          "amount": 193.32,
+          "category": "health",
+          "description": "Eczane",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-12T12:00:00.000Z",
+          "amount": 304.73,
+          "category": "education",
+          "description": "Kitapçı",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-11T12:00:00.000Z",
+          "amount": 468.53,
+          "category": "education",
+          "description": "Udemy Kurs",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-09T12:00:00.000Z",
+          "amount": 942.07,
+          "category": "entertainment",
+          "description": "Konser",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-08T12:00:00.000Z",
+          "amount": 322.88,
+          "category": "entertainment",
+          "description": "Sinema Bileti",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-06T12:00:00.000Z",
+          "amount": 552.96,
+          "category": "dining",
+          "description": "Restoran",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-05T12:00:00.000Z",
+          "amount": 170.69,
+          "category": "dining",
+          "description": "Starbucks",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-03T12:00:00.000Z",
+          "amount": 2203.95,
+          "category": "market",
+          "description": "Teknosa",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-02T12:00:00.000Z",
+          "amount": 1280,
+          "category": "market",
+          "description": "Zara Alışveriş",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-30T12:00:00.000Z",
+          "amount": 79.68,
+          "category": "other",
+          "description": "Bakkal",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-29T12:00:00.000Z",
+          "amount": 61.52,
+          "category": "subscription",
+          "description": "Spotify",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-28T12:00:00.000Z",
+          "amount": 896.55,
+          "category": "market",
+          "description": "Migros Market",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-26T12:00:00.000Z",
+          "amount": 258.13,
+          "category": "market",
+          "description": "BİM Market",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-25T12:00:00.000Z",
+          "amount": 230.33,
+          "category": "subscription",
+          "description": "Netflix Abonelik",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-23T12:00:00.000Z",
+          "amount": 589.57,
+          "category": "transport",
+          "description": "Metro Kart",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-22T12:00:00.000Z",
+          "amount": 1489.15,
+          "category": "transport",
+          "description": "Shell Benzin",
+          "source": "mock_bank"
+        }
+      ],
+      "lastMlInput": {
+        "BALANCE": 25000,
+        "PURCHASES": 17210,
+        "ONEOFF_PURCHASES": 2040,
+        "INSTALLMENTS_PURCHASES": 0,
+        "CASH_ADVANCE": 0,
+        "CREDIT_LIMIT": 0,
+        "PAYMENTS": 4000,
+        "MINIMUM_PAYMENTS": 0,
+        "PRC_FULL_PAYMENT": 100,
+        "TENURE": 12,
+        "BALANCE_FREQUENCY": 1,
+        "PURCHASES_FREQUENCY": 0.8,
+        "ONEOFF_PURCHASES_FREQUENCY": 0.5,
+        "PURCHASES_INSTALLMENTS_FREQUENCY": 0.6,
+        "CASH_ADVANCE_FREQUENCY": 0.35,
+        "CASH_ADVANCE_TRX": 4,
+        "PURCHASES_TRX": 78
+      },
+      "bankConnections": [
+        {
+          "id": "mock-bank-primary",
+          "bankName": "Monexa Bank",
+          "iban": "TR34 0664 8583 6502 4421 2340 0259",
+          "status": "connected",
+          "isMock": true
+        }
+      ],
+      "mockBank": {
+        "connected": true,
+        "connectedAt": "2026-05-19T20:38:57.571Z",
+        "account": {
+          "ownerName": "Nisa Nur Ozdal",
+          "bankName": "Monexa Bank",
+          "accountNumber": "TR34 0664 8583 6502 4421 2340 0259",
+          "accountType": "Vadesiz Hesap",
+          "balance": 23164.64,
+          "currency": "TRY",
+          "connectedAt": "2026-05-19T20:38:57.557Z"
+        },
+        "payments": [
+          {
+            "id": "pay-nisanur200396@icloud.com-1013",
+            "paymentNo": "PAY-1013",
+            "title": "Turkcell Fatura",
+            "description": "Mobil hat ödemesi",
+            "amount": 437.64,
+            "category": "Fatura",
+            "date": "2026-05-18",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1004",
+            "paymentNo": "PAY-1004",
+            "title": "İSKİ Faturası",
+            "description": "Su faturası ödemesi",
+            "amount": 328.91,
+            "category": "Fatura",
+            "date": "2026-05-17",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1014",
+            "paymentNo": "PAY-1014",
+            "title": "Hastane",
+            "description": "Muayene ücreti",
+            "amount": 755.63,
+            "category": "Sağlık",
+            "date": "2026-05-15",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1005",
+            "paymentNo": "PAY-1005",
+            "title": "Eczane",
+            "description": "Sağlık ürünleri",
+            "amount": 193.32,
+            "category": "Sağlık",
+            "date": "2026-05-14",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1015",
+            "paymentNo": "PAY-1015",
+            "title": "Kitapçı",
+            "description": "Ders kitabı",
+            "amount": 304.73,
+            "category": "Eğitim",
+            "date": "2026-05-12",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1006",
+            "paymentNo": "PAY-1006",
+            "title": "Udemy Kurs",
+            "description": "Online eğitim",
+            "amount": 468.53,
+            "category": "Eğitim",
+            "date": "2026-05-11",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1016",
+            "paymentNo": "PAY-1016",
+            "title": "Konser",
+            "description": "Etkinlik bileti",
+            "amount": 942.07,
+            "category": "Eğlence",
+            "date": "2026-05-09",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1007",
+            "paymentNo": "PAY-1007",
+            "title": "Sinema Bileti",
+            "description": "Hafta sonu etkinliği",
+            "amount": 322.88,
+            "category": "Eğlence",
+            "date": "2026-05-08",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1017",
+            "paymentNo": "PAY-1017",
+            "title": "Restoran",
+            "description": "Akşam yemeği",
+            "amount": 552.96,
+            "category": "Kafe / Restoran",
+            "date": "2026-05-06",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1008",
+            "paymentNo": "PAY-1008",
+            "title": "Starbucks",
+            "description": "Kafe harcaması",
+            "amount": 170.69,
+            "category": "Kafe / Restoran",
+            "date": "2026-05-05",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1018",
+            "paymentNo": "PAY-1018",
+            "title": "Teknosa",
+            "description": "Elektronik aksesuar",
+            "amount": 2203.95,
+            "category": "Alışveriş",
+            "date": "2026-05-03",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1009",
+            "paymentNo": "PAY-1009",
+            "title": "Zara Alışveriş",
+            "description": "Giyim alışverişi",
+            "amount": 1280,
+            "category": "Alışveriş",
+            "date": "2026-05-02",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1021",
+            "paymentNo": "PAY-1021",
+            "title": "Freelance Gelir",
+            "description": "Proje ödemesi",
+            "amount": 4500,
+            "category": "Gelir",
+            "date": "2026-05-01",
+            "paymentMethod": "Havale",
+            "type": "income",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1019",
+            "paymentNo": "PAY-1019",
+            "title": "Bakkal",
+            "description": "Küçük alışveriş",
+            "amount": 79.68,
+            "category": "Diğer",
+            "date": "2026-04-30",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1020",
+            "paymentNo": "PAY-1020",
+            "title": "Maaş Ödemesi",
+            "description": "Aylık maaş transferi",
+            "amount": 28500,
+            "category": "Gelir",
+            "date": "2026-04-30",
+            "paymentMethod": "Havale",
+            "type": "income",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1010",
+            "paymentNo": "PAY-1010",
+            "title": "Spotify",
+            "description": "Müzik aboneliği",
+            "amount": 61.52,
+            "category": "Abonelik",
+            "date": "2026-04-29",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1001",
+            "paymentNo": "PAY-1001",
+            "title": "Migros Market",
+            "description": "Haftalık market alışverişi",
+            "amount": 896.55,
+            "category": "Market",
+            "date": "2026-04-28",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1011",
+            "paymentNo": "PAY-1011",
+            "title": "BİM Market",
+            "description": "Günlük alışveriş",
+            "amount": 258.13,
+            "category": "Market",
+            "date": "2026-04-26",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1002",
+            "paymentNo": "PAY-1002",
+            "title": "Netflix Abonelik",
+            "description": "Aylık dijital abonelik",
+            "amount": 230.33,
+            "category": "Abonelik",
+            "date": "2026-04-25",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1012",
+            "paymentNo": "PAY-1012",
+            "title": "Metro Kart",
+            "description": "Toplu taşıma",
+            "amount": 589.57,
+            "category": "Ulaşım",
+            "date": "2026-04-23",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-nisanur200396@icloud.com-1003",
+            "paymentNo": "PAY-1003",
+            "title": "Shell Benzin",
+            "description": "Araç yakıt gideri",
+            "amount": 1489.15,
+            "category": "Ulaşım",
+            "date": "2026-04-22",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          }
+        ],
+        "summary": {
+          "balance": 23164.64,
+          "totalExpense": 11566.24,
+          "totalIncome": 33000,
+          "topCategory": "Alışveriş",
+          "monthlyChangePercent": 121,
+          "currentMonthSpending": 7961.31,
+          "priorMonthSpending": 3604.93,
+          "categoryBreakdown": [
+            {
+              "category": "Alışveriş",
+              "amount": 3483.95
+            },
+            {
+              "category": "Ulaşım",
+              "amount": 2078.72
+            },
+            {
+              "category": "Eğlence",
+              "amount": 1264.95
+            },
+            {
+              "category": "Market",
+              "amount": 1154.68
+            },
+            {
+              "category": "Sağlık",
+              "amount": 948.95
+            },
+            {
+              "category": "Eğitim",
+              "amount": 773.26
+            },
+            {
+              "category": "Fatura",
+              "amount": 766.55
+            },
+            {
+              "category": "Kafe / Restoran",
+              "amount": 723.65
+            },
+            {
+              "category": "Abonelik",
+              "amount": 291.85
+            },
+            {
+              "category": "Diğer",
+              "amount": 79.68
+            }
+          ],
+          "subscriptions": [
+            {
+              "id": "pay-nisanur200396@icloud.com-1010",
+              "paymentNo": "PAY-1010",
+              "title": "Spotify",
+              "description": "Müzik aboneliği",
+              "amount": 61.52,
+              "category": "Abonelik",
+              "date": "2026-04-29",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1002",
+              "paymentNo": "PAY-1002",
+              "title": "Netflix Abonelik",
+              "description": "Aylık dijital abonelik",
+              "amount": 230.33,
+              "category": "Abonelik",
+              "date": "2026-04-25",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            }
+          ],
+          "recentPayments": [
+            {
+              "id": "pay-nisanur200396@icloud.com-1013",
+              "paymentNo": "PAY-1013",
+              "title": "Turkcell Fatura",
+              "description": "Mobil hat ödemesi",
+              "amount": 437.64,
+              "category": "Fatura",
+              "date": "2026-05-18",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1004",
+              "paymentNo": "PAY-1004",
+              "title": "İSKİ Faturası",
+              "description": "Su faturası ödemesi",
+              "amount": 328.91,
+              "category": "Fatura",
+              "date": "2026-05-17",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1014",
+              "paymentNo": "PAY-1014",
+              "title": "Hastane",
+              "description": "Muayene ücreti",
+              "amount": 755.63,
+              "category": "Sağlık",
+              "date": "2026-05-15",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1005",
+              "paymentNo": "PAY-1005",
+              "title": "Eczane",
+              "description": "Sağlık ürünleri",
+              "amount": 193.32,
+              "category": "Sağlık",
+              "date": "2026-05-14",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1015",
+              "paymentNo": "PAY-1015",
+              "title": "Kitapçı",
+              "description": "Ders kitabı",
+              "amount": 304.73,
+              "category": "Eğitim",
+              "date": "2026-05-12",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1006",
+              "paymentNo": "PAY-1006",
+              "title": "Udemy Kurs",
+              "description": "Online eğitim",
+              "amount": 468.53,
+              "category": "Eğitim",
+              "date": "2026-05-11",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1016",
+              "paymentNo": "PAY-1016",
+              "title": "Konser",
+              "description": "Etkinlik bileti",
+              "amount": 942.07,
+              "category": "Eğlence",
+              "date": "2026-05-09",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-nisanur200396@icloud.com-1007",
+              "paymentNo": "PAY-1007",
+              "title": "Sinema Bileti",
+              "description": "Hafta sonu etkinliği",
+              "amount": 322.88,
+              "category": "Eğlence",
+              "date": "2026-05-08",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            }
+          ]
+        }
+      },
+      "cashback": {
+        "lastCalculatedAt": "2026-05-19T22:20:33.361Z",
+        "transactions": [
+          {
+            "paymentNo": "PAY-1008",
+            "storeId": "starbucks",
+            "storeName": "Starbucks",
+            "category": "Kafe / Restoran",
+            "amount": 170.69,
+            "cashbackRate": 3,
+            "cashbackAmount": 5.12,
+            "date": "2026-05-05",
+            "status": "earned",
+            "minSpend": 100,
+            "source": "mock_bank"
+          },
+          {
+            "paymentNo": "PAY-1010",
+            "storeId": "spotify",
+            "storeName": "Spotify",
+            "category": "Abonelik",
+            "amount": 61.52,
+            "cashbackRate": 3,
+            "cashbackAmount": 1.85,
+            "date": "2026-04-29",
+            "status": "earned",
+            "minSpend": 50,
+            "source": "mock_bank"
+          },
+          {
+            "paymentNo": "PAY-1001",
+            "storeId": "migros",
+            "storeName": "Migros",
+            "category": "Market",
+            "amount": 896.55,
+            "cashbackRate": 5,
+            "cashbackAmount": 44.83,
+            "date": "2026-04-28",
+            "status": "earned",
+            "minSpend": 500,
+            "source": "mock_bank"
+          },
+          {
+            "paymentNo": "PAY-1002",
+            "storeId": "netflix",
+            "storeName": "Netflix",
+            "category": "Abonelik",
+            "amount": 230.33,
+            "cashbackRate": 4,
+            "cashbackAmount": 9.21,
+            "date": "2026-04-25",
+            "status": "earned",
+            "minSpend": 50,
+            "source": "mock_bank"
+          },
+          {
+            "paymentNo": "PAY-1003",
+            "storeId": "shell",
+            "storeName": "Shell",
+            "category": "Ulaşım",
+            "amount": 1489.15,
+            "cashbackRate": 4,
+            "cashbackAmount": 59.57,
+            "date": "2026-04-22",
+            "status": "earned",
+            "minSpend": 400,
+            "source": "mock_bank"
+          }
+        ],
+        "summary": {
+          "disclaimer": "Cashback sistemi, anlaşmalı mağazalardan yapılan harcamalarda kullanıcının belirli bir yüzdelik oranla geri kazanım elde etmesini sağlar. Bu proje kapsamında cashback verileri demo amaçlı mock data üzerinden hesaplanmaktadır.",
+          "totalEarned": 120.58,
+          "earnedThisMonth": 5.12,
+          "topStore": {
+            "storeName": "Shell",
+            "cashbackAmount": 59.57
+          },
+          "activeCampaignCount": 10,
+          "recommendedStores": [
+            {
+              "id": "trendyol",
+              "storeName": "Trendyol",
+              "category": "Alışveriş",
+              "cashbackRate": 8,
+              "description": "Trendyol'da seçili kategorilerde %8 cashback",
+              "minSpend": 300,
+              "validUntil": "2026-07-15",
+              "status": "active",
+              "icon": "bag",
+              "matchKeywords": [
+                "trendyol"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "lcwaikiki",
+              "storeName": "LC Waikiki",
+              "category": "Alışveriş",
+              "cashbackRate": 7,
+              "description": "LC Waikiki giyim alışverişlerinde %7 cashback",
+              "minSpend": 400,
+              "validUntil": "2026-07-31",
+              "status": "active",
+              "icon": "shirt",
+              "matchKeywords": [
+                "lc waikiki",
+                "lcw",
+                "waikiki"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "hepsiburada",
+              "storeName": "Hepsiburada",
+              "category": "Alışveriş",
+              "cashbackRate": 6,
+              "description": "Hepsiburada alışverişlerinde %6 cashback",
+              "minSpend": 250,
+              "validUntil": "2026-06-30",
+              "status": "active",
+              "icon": "shop",
+              "matchKeywords": [
+                "hepsiburada",
+                "hepsi burada"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "yemeksepeti",
+              "storeName": "Yemeksepeti",
+              "category": "Kafe / Restoran",
+              "cashbackRate": 6,
+              "description": "Yemeksepeti siparişlerinde %6 cashback",
+              "minSpend": 150,
+              "validUntil": "2026-08-15",
+              "status": "active",
+              "icon": "food",
+              "matchKeywords": [
+                "yemeksepeti",
+                "yemek sepeti"
+              ],
+              "isActive": true
+            }
+          ],
+          "topRateStores": [
+            {
+              "id": "trendyol",
+              "storeName": "Trendyol",
+              "category": "Alışveriş",
+              "cashbackRate": 8,
+              "description": "Trendyol'da seçili kategorilerde %8 cashback",
+              "minSpend": 300,
+              "validUntil": "2026-07-15",
+              "status": "active",
+              "icon": "bag",
+              "matchKeywords": [
+                "trendyol"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "lcwaikiki",
+              "storeName": "LC Waikiki",
+              "category": "Alışveriş",
+              "cashbackRate": 7,
+              "description": "LC Waikiki giyim alışverişlerinde %7 cashback",
+              "minSpend": 400,
+              "validUntil": "2026-07-31",
+              "status": "active",
+              "icon": "shirt",
+              "matchKeywords": [
+                "lc waikiki",
+                "lcw",
+                "waikiki"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "hepsiburada",
+              "storeName": "Hepsiburada",
+              "category": "Alışveriş",
+              "cashbackRate": 6,
+              "description": "Hepsiburada alışverişlerinde %6 cashback",
+              "minSpend": 250,
+              "validUntil": "2026-06-30",
+              "status": "active",
+              "icon": "shop",
+              "matchKeywords": [
+                "hepsiburada",
+                "hepsi burada"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "yemeksepeti",
+              "storeName": "Yemeksepeti",
+              "category": "Kafe / Restoran",
+              "cashbackRate": 6,
+              "description": "Yemeksepeti siparişlerinde %6 cashback",
+              "minSpend": 150,
+              "validUntil": "2026-08-15",
+              "status": "active",
+              "icon": "food",
+              "matchKeywords": [
+                "yemeksepeti",
+                "yemek sepeti"
+              ],
+              "isActive": true
+            },
+            {
+              "id": "migros",
+              "storeName": "Migros",
+              "category": "Market",
+              "cashbackRate": 5,
+              "description": "Migros alışverişlerinde %5 cashback fırsatı",
+              "minSpend": 500,
+              "validUntil": "2026-06-30",
+              "status": "active",
+              "icon": "cart",
+              "matchKeywords": [
+                "migros"
+              ],
+              "isActive": true
+            }
+          ],
+          "recentTransactions": [
+            {
+              "paymentNo": "PAY-1008",
+              "storeId": "starbucks",
+              "storeName": "Starbucks",
+              "category": "Kafe / Restoran",
+              "amount": 170.69,
+              "cashbackRate": 3,
+              "cashbackAmount": 5.12,
+              "date": "2026-05-05",
+              "status": "earned",
+              "minSpend": 100,
+              "source": "mock_bank"
+            },
+            {
+              "paymentNo": "PAY-1010",
+              "storeId": "spotify",
+              "storeName": "Spotify",
+              "category": "Abonelik",
+              "amount": 61.52,
+              "cashbackRate": 3,
+              "cashbackAmount": 1.85,
+              "date": "2026-04-29",
+              "status": "earned",
+              "minSpend": 50,
+              "source": "mock_bank"
+            },
+            {
+              "paymentNo": "PAY-1001",
+              "storeId": "migros",
+              "storeName": "Migros",
+              "category": "Market",
+              "amount": 896.55,
+              "cashbackRate": 5,
+              "cashbackAmount": 44.83,
+              "date": "2026-04-28",
+              "status": "earned",
+              "minSpend": 500,
+              "source": "mock_bank"
+            },
+            {
+              "paymentNo": "PAY-1002",
+              "storeId": "netflix",
+              "storeName": "Netflix",
+              "category": "Abonelik",
+              "amount": 230.33,
+              "cashbackRate": 4,
+              "cashbackAmount": 9.21,
+              "date": "2026-04-25",
+              "status": "earned",
+              "minSpend": 50,
+              "source": "mock_bank"
+            },
+            {
+              "paymentNo": "PAY-1003",
+              "storeId": "shell",
+              "storeName": "Shell",
+              "category": "Ulaşım",
+              "amount": 1489.15,
+              "cashbackRate": 4,
+              "cashbackAmount": 59.57,
+              "date": "2026-04-22",
+              "status": "earned",
+              "minSpend": 400,
+              "source": "mock_bank"
+            }
+          ],
+          "charts": {
+            "monthly": {
+              "labels": [
+                "Ara",
+                "Oca",
+                "Şub",
+                "Mar",
+                "Nis",
+                "May"
+              ],
+              "data": [
+                0,
+                0,
+                0,
+                0,
+                115.46,
+                5.12
+              ]
+            },
+            "byCategory": {
+              "labels": [
+                "Ulaşım",
+                "Market",
+                "Abonelik",
+                "Kafe / Restoran"
+              ],
+              "data": [
+                59.57,
+                44.83,
+                11.06,
+                5.12
+              ]
+            },
+            "byStore": {
+              "labels": [
+                "Shell",
+                "Migros",
+                "Netflix",
+                "Starbucks",
+                "Spotify"
+              ],
+              "data": [
+                59.57,
+                44.83,
+                9.21,
+                5.12,
+                1.85
+              ]
+            }
+          },
+          "transactionCount": 5,
+          "earnedTransactionCount": 5
+        }
+      }
+    },
+    "nisanur200396@gmail.com": {
+      "analyses": [],
+      "profile": {
+        "first_name": "melek",
+        "last_name": "Alaf",
+        "email": "nisanur200396@gmail.com",
+        "phone": "5058729764"
+      }
+    },
+    "berfingeles123@gmail.com": {
+      "analyses": [],
+      "profile": {
+        "first_name": "berfin",
+        "last_name": "geles",
+        "email": "berfingeles123@gmail.com",
+        "phone": "05312558296"
+      }
+    },
+    "rumis@gmail.com": {
+      "analyses": [],
+      "profile": {
+        "first_name": "rumeysa",
+        "last_name": "caydan",
+        "email": "rumis@gmail.com",
+        "phone": ""
+      },
+      "auth": {
+        "passwordHash": "fc129968991aadf50bf7f45f36afa742:e735b0ec5c005eae58b4a2110c7c7a2dd04b92bca3826c791db4db515f23577c5712c66913a35de5de9bb90df65c28d6c1a74089df4ed8ec5c9a7ad5dd9d5a83",
+        "createdAt": "2026-05-19T12:08:23.895Z"
+      },
+      "mockBank": {
+        "connected": true,
+        "connectedAt": "2026-05-19T21:58:16.988Z",
+        "account": {
+          "ownerName": "rumeysa caydan",
+          "bankName": "Monexa Bank",
+          "accountNumber": "TR64 3174 1093 9012 6931 4850 2769",
+          "accountType": "Vadesiz Hesap",
+          "balance": 23674.08,
+          "currency": "TRY",
+          "connectedAt": "2026-05-19T21:58:16.988Z"
+        },
+        "payments": [
+          {
+            "id": "pay-rumis@gmail.com-1014",
+            "paymentNo": "PAY-1014",
+            "title": "Hastane",
+            "description": "Muayene ücreti",
+            "amount": 789.38,
+            "category": "Sağlık",
+            "date": "2026-05-17",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1005",
+            "paymentNo": "PAY-1005",
+            "title": "Eczane",
+            "description": "Sağlık ürünleri",
+            "amount": 190.47,
+            "category": "Sağlık",
+            "date": "2026-05-16",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1015",
+            "paymentNo": "PAY-1015",
+            "title": "Kitapçı",
+            "description": "Ders kitabı",
+            "amount": 300.31,
+            "category": "Eğitim",
+            "date": "2026-05-14",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1006",
+            "paymentNo": "PAY-1006",
+            "title": "Udemy Kurs",
+            "description": "Online eğitim",
+            "amount": 461.8,
+            "category": "Eğitim",
+            "date": "2026-05-13",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1016",
+            "paymentNo": "PAY-1016",
+            "title": "Konser",
+            "description": "Etkinlik bileti",
+            "amount": 928.72,
+            "category": "Eğlence",
+            "date": "2026-05-11",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1007",
+            "paymentNo": "PAY-1007",
+            "title": "Sinema Bileti",
+            "description": "Hafta sonu etkinliği",
+            "amount": 337.28,
+            "category": "Eğlence",
+            "date": "2026-05-10",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1017",
+            "paymentNo": "PAY-1017",
+            "title": "Restoran",
+            "description": "Akşam yemeği",
+            "amount": 544.86,
+            "category": "Kafe / Restoran",
+            "date": "2026-05-08",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1008",
+            "paymentNo": "PAY-1008",
+            "title": "Starbucks",
+            "description": "Kafe harcaması",
+            "amount": 168.22,
+            "category": "Kafe / Restoran",
+            "date": "2026-05-07",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1018",
+            "paymentNo": "PAY-1018",
+            "title": "Teknosa",
+            "description": "Elektronik aksesuar",
+            "amount": 2172.45,
+            "category": "Alışveriş",
+            "date": "2026-05-05",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1009",
+            "paymentNo": "PAY-1009",
+            "title": "Zara Alışveriş",
+            "description": "Giyim alışverişi",
+            "amount": 1337.6,
+            "category": "Alışveriş",
+            "date": "2026-05-04",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1019",
+            "paymentNo": "PAY-1019",
+            "title": "Bakkal",
+            "description": "Küçük alışveriş",
+            "amount": 78.5,
+            "category": "Diğer",
+            "date": "2026-05-02",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1010",
+            "paymentNo": "PAY-1010",
+            "title": "Spotify",
+            "description": "Müzik aboneliği",
+            "amount": 60.62,
+            "category": "Abonelik",
+            "date": "2026-05-01",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1021",
+            "paymentNo": "PAY-1021",
+            "title": "Freelance Gelir",
+            "description": "Proje ödemesi",
+            "amount": 4500,
+            "category": "Gelir",
+            "date": "2026-05-01",
+            "paymentMethod": "Havale",
+            "type": "income",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1001",
+            "paymentNo": "PAY-1001",
+            "title": "Migros Market",
+            "description": "Haftalık market alışverişi",
+            "amount": 883.57,
+            "category": "Market",
+            "date": "2026-04-30",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1020",
+            "paymentNo": "PAY-1020",
+            "title": "Maaş Ödemesi",
+            "description": "Aylık maaş transferi",
+            "amount": 28500,
+            "category": "Gelir",
+            "date": "2026-04-30",
+            "paymentMethod": "Havale",
+            "type": "income",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1011",
+            "paymentNo": "PAY-1011",
+            "title": "BİM Market",
+            "description": "Günlük alışveriş",
+            "amount": 254.44,
+            "category": "Market",
+            "date": "2026-04-28",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1002",
+            "paymentNo": "PAY-1002",
+            "title": "Netflix Abonelik",
+            "description": "Aylık dijital abonelik",
+            "amount": 240.68,
+            "category": "Abonelik",
+            "date": "2026-04-27",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1012",
+            "paymentNo": "PAY-1012",
+            "title": "Metro Kart",
+            "description": "Toplu taşıma",
+            "amount": 580.87,
+            "category": "Ulaşım",
+            "date": "2026-04-25",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1003",
+            "paymentNo": "PAY-1003",
+            "title": "Shell Benzin",
+            "description": "Araç yakıt gideri",
+            "amount": 1467.4,
+            "category": "Ulaşım",
+            "date": "2026-04-24",
+            "paymentMethod": "Banka Kartı",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1013",
+            "paymentNo": "PAY-1013",
+            "title": "Turkcell Fatura",
+            "description": "Mobil hat ödemesi",
+            "amount": 431.34,
+            "category": "Fatura",
+            "date": "2026-04-22",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          },
+          {
+            "id": "pay-rumis@gmail.com-1004",
+            "paymentNo": "PAY-1004",
+            "title": "İSKİ Faturası",
+            "description": "Su faturası ödemesi",
+            "amount": 324.22,
+            "category": "Fatura",
+            "date": "2026-04-21",
+            "paymentMethod": "Havale",
+            "type": "expense",
+            "status": "completed"
+          }
+        ],
+        "summary": {
+          "balance": 23674.08,
+          "totalExpense": 11552.73,
+          "totalIncome": 33000,
+          "topCategory": "Alışveriş",
+          "monthlyChangePercent": 76,
+          "currentMonthSpending": 7370.21,
+          "priorMonthSpending": 4182.52,
+          "categoryBreakdown": [
+            {
+              "category": "Alışveriş",
+              "amount": 3510.05
+            },
+            {
+              "category": "Ulaşım",
+              "amount": 2048.27
+            },
+            {
+              "category": "Eğlence",
+              "amount": 1266
+            },
+            {
+              "category": "Market",
+              "amount": 1138.01
+            },
+            {
+              "category": "Sağlık",
+              "amount": 979.85
+            },
+            {
+              "category": "Eğitim",
+              "amount": 762.11
+            },
+            {
+              "category": "Fatura",
+              "amount": 755.56
+            },
+            {
+              "category": "Kafe / Restoran",
+              "amount": 713.08
+            },
+            {
+              "category": "Abonelik",
+              "amount": 301.3
+            },
+            {
+              "category": "Diğer",
+              "amount": 78.5
+            }
+          ],
+          "subscriptions": [
+            {
+              "id": "pay-rumis@gmail.com-1010",
+              "paymentNo": "PAY-1010",
+              "title": "Spotify",
+              "description": "Müzik aboneliği",
+              "amount": 60.62,
+              "category": "Abonelik",
+              "date": "2026-05-01",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1002",
+              "paymentNo": "PAY-1002",
+              "title": "Netflix Abonelik",
+              "description": "Aylık dijital abonelik",
+              "amount": 240.68,
+              "category": "Abonelik",
+              "date": "2026-04-27",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            }
+          ],
+          "recentPayments": [
+            {
+              "id": "pay-rumis@gmail.com-1014",
+              "paymentNo": "PAY-1014",
+              "title": "Hastane",
+              "description": "Muayene ücreti",
+              "amount": 789.38,
+              "category": "Sağlık",
+              "date": "2026-05-17",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1005",
+              "paymentNo": "PAY-1005",
+              "title": "Eczane",
+              "description": "Sağlık ürünleri",
+              "amount": 190.47,
+              "category": "Sağlık",
+              "date": "2026-05-16",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1015",
+              "paymentNo": "PAY-1015",
+              "title": "Kitapçı",
+              "description": "Ders kitabı",
+              "amount": 300.31,
+              "category": "Eğitim",
+              "date": "2026-05-14",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1006",
+              "paymentNo": "PAY-1006",
+              "title": "Udemy Kurs",
+              "description": "Online eğitim",
+              "amount": 461.8,
+              "category": "Eğitim",
+              "date": "2026-05-13",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1016",
+              "paymentNo": "PAY-1016",
+              "title": "Konser",
+              "description": "Etkinlik bileti",
+              "amount": 928.72,
+              "category": "Eğlence",
+              "date": "2026-05-11",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1007",
+              "paymentNo": "PAY-1007",
+              "title": "Sinema Bileti",
+              "description": "Hafta sonu etkinliği",
+              "amount": 337.28,
+              "category": "Eğlence",
+              "date": "2026-05-10",
+              "paymentMethod": "Havale",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1017",
+              "paymentNo": "PAY-1017",
+              "title": "Restoran",
+              "description": "Akşam yemeği",
+              "amount": 544.86,
+              "category": "Kafe / Restoran",
+              "date": "2026-05-08",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            },
+            {
+              "id": "pay-rumis@gmail.com-1008",
+              "paymentNo": "PAY-1008",
+              "title": "Starbucks",
+              "description": "Kafe harcaması",
+              "amount": 168.22,
+              "category": "Kafe / Restoran",
+              "date": "2026-05-07",
+              "paymentMethod": "Banka Kartı",
+              "type": "expense",
+              "status": "completed"
+            }
+          ]
+        }
+      },
+      "transactions": [
+        {
+          "created_at": "2026-05-17T12:00:00.000Z",
+          "amount": 789.38,
+          "category": "health",
+          "description": "Hastane",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-16T12:00:00.000Z",
+          "amount": 190.47,
+          "category": "health",
+          "description": "Eczane",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-14T12:00:00.000Z",
+          "amount": 300.31,
+          "category": "education",
+          "description": "Kitapçı",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-13T12:00:00.000Z",
+          "amount": 461.8,
+          "category": "education",
+          "description": "Udemy Kurs",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-11T12:00:00.000Z",
+          "amount": 928.72,
+          "category": "entertainment",
+          "description": "Konser",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-10T12:00:00.000Z",
+          "amount": 337.28,
+          "category": "entertainment",
+          "description": "Sinema Bileti",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-08T12:00:00.000Z",
+          "amount": 544.86,
+          "category": "dining",
+          "description": "Restoran",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-07T12:00:00.000Z",
+          "amount": 168.22,
+          "category": "dining",
+          "description": "Starbucks",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-05T12:00:00.000Z",
+          "amount": 2172.45,
+          "category": "market",
+          "description": "Teknosa",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-04T12:00:00.000Z",
+          "amount": 1337.6,
+          "category": "market",
+          "description": "Zara Alışveriş",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-02T12:00:00.000Z",
+          "amount": 78.5,
+          "category": "other",
+          "description": "Bakkal",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-05-01T12:00:00.000Z",
+          "amount": 60.62,
+          "category": "subscription",
+          "description": "Spotify",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-30T12:00:00.000Z",
+          "amount": 883.57,
+          "category": "market",
+          "description": "Migros Market",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-28T12:00:00.000Z",
+          "amount": 254.44,
+          "category": "market",
+          "description": "BİM Market",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-27T12:00:00.000Z",
+          "amount": 240.68,
+          "category": "subscription",
+          "description": "Netflix Abonelik",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-25T12:00:00.000Z",
+          "amount": 580.87,
+          "category": "transport",
+          "description": "Metro Kart",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-24T12:00:00.000Z",
+          "amount": 1467.4,
+          "category": "transport",
+          "description": "Shell Benzin",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-22T12:00:00.000Z",
+          "amount": 431.34,
+          "category": "bills",
+          "description": "Turkcell Fatura",
+          "source": "mock_bank"
+        },
+        {
+          "created_at": "2026-04-21T12:00:00.000Z",
+          "amount": 324.22,
+          "category": "bills",
+          "description": "İSKİ Faturası",
+          "source": "mock_bank"
+        }
+      ],
+      "bankConnections": [
+        {
+          "id": "mock-bank-primary",
+          "bankName": "Monexa Bank",
+          "iban": "TR64 3174 1093 9012 6931 4850 2769",
+          "status": "connected",
+          "isMock": true
+        }
+      ]
+    }
+  }
+}

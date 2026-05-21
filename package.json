@@ -1,0 +1,40 @@
+{
+  "name": "monexa",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.15.2",
+    "chart.js": "^4.5.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "framer-motion": "^10.16.0",
+    "http-proxy-middleware": "^3.0.5",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.30.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "node scripts/run-all.js",
+    "start:frontend": "react-scripts start",
+    "build": "react-scripts build",
+    "backend": "npm --prefix backend start",
+    "dev": "node scripts/run-all.js",
+    "dev:smoke": "node scripts/run-all.js --smoke-test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

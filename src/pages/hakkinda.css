@@ -1,0 +1,188 @@
+.hakkinda-page {
+  padding-bottom: 24px;
+}
+
+.hakkinda-hero {
+  text-align: center;
+  padding: 20px 16px 24px;
+  margin-bottom: 16px;
+  border-radius: var(--mx-radius-lg);
+  background: linear-gradient(165deg, #fffdf9 0%, #f5efe4 55%, #ebe4d8 100%);
+  border: 1px solid rgba(44, 39, 36, 0.08);
+  box-shadow: var(--mx-shadow);
+}
+
+.hakkinda-hero__logo {
+  font-family: var(--mx-font-display);
+  font-size: 1.75rem;
+  color: var(--mx-brand);
+  margin: 0 0 12px;
+  letter-spacing: 0.02em;
+}
+
+.hakkinda-hero__slogan {
+  font-family: var(--mx-font-display);
+  font-size: 1.35rem;
+  line-height: 1.35;
+  color: var(--mx-ink);
+  margin: 0 0 12px;
+  font-weight: 400;
+}
+
+.hakkinda-hero__lead {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--mx-ink-soft);
+  max-width: 32rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hakkinda-section {
+  margin-bottom: 12px;
+}
+
+.hakkinda-card {
+  background: var(--mx-paper);
+  border: 1px solid rgba(44, 39, 36, 0.08);
+  border-radius: var(--mx-radius-md);
+  padding: 16px;
+  box-shadow: 0 8px 24px rgba(44, 39, 36, 0.05);
+}
+
+.hakkinda-card__head {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.hakkinda-card__icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: var(--mx-brand);
+  background: linear-gradient(145deg, rgba(201, 162, 39, 0.18), rgba(224, 120, 98, 0.12));
+}
+
+.hakkinda-card__title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--mx-ink);
+  line-height: 1.3;
+}
+
+.hakkinda-card__text {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--mx-ink-soft);
+}
+
+.hakkinda-card__list {
+  margin: 8px 0 0;
+  padding-left: 1.1rem;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--mx-ink-soft);
+}
+
+.hakkinda-card__list li {
+  margin-bottom: 6px;
+}
+
+.hakkinda-flow {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.hakkinda-flow__step {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(44, 39, 36, 0.06);
+}
+
+.hakkinda-flow__num {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--mx-brand) 0%, var(--mx-brand-deep) 100%);
+  color: #faf6f0;
+  font-size: 13px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hakkinda-flow__label {
+  margin: 0 0 2px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--mx-ink);
+}
+
+.hakkinda-flow__desc {
+  margin: 0;
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--mx-ink-muted);
+}
+
+.hakkinda-cta {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.hakkinda-cta .btn {
+  width: 100%;
+  max-width: 280px;
+}
+
+.hakkinda-cta__links {
+  margin-top: 12px;
+  font-size: 13px;
+}
+
+.hakkinda-benefits {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.hakkinda-benefit {
+  padding: 10px;
+  border-radius: 10px;
+  background: rgba(201, 162, 39, 0.08);
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--mx-ink-soft);
+  text-align: center;
+}
+
+.hakkinda-benefit strong {
+  display: block;
+  font-size: 13px;
+  color: var(--mx-ink);
+  margin-bottom: 4px;
+}
+
+@media (max-width: 360px) {
+  .hakkinda-benefits {
+    grid-template-columns: 1fr;
+  }
+}
